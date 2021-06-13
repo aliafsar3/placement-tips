@@ -1,0 +1,85 @@
+
+
+Language (C++ or Java):
+>>>>>>>>>>>>>>>>>>>
+
+>Anatomy
+>Data Type
+>Variable
+>Operators
+>Control flow
+>Iterators
+>I/O function
+>OOPs concept
+>Error Handle
+>Utility methods
+-Array related
+-Object related
+-String related
+-Math related
+>DSA framework
+
+>>>>>>>>>>>>>>>>>>>
+
+
+ALGORITHM
+>>>>>>>>>>>>>>>>>
+
+>Searching
+>Sorting algo
+>Recursion
+>String algo
+---
+>Backtracking
+>Greedy algo
+>Dynamic prog
+>Graph algo
+
+>>>>>>>>>>>>>>>>>
+
+
+Data Structure
+>>>>>>>>>>>>>>>
+
+>Array
+>LinkedList
+>Stack
+>Queue
+
++++
+
+>ArrayList
+>Dqueue
+>HashTable*
+>Map
+>Set
+
+---
+>Tree
+>Heap
+>Graph
+
+>>>>>>>>>>>>>>>
+
+
+DSA Application:
+>>>>>>>>>>>>>>>>>
+
+>Basic mathematics
+>Memory Segments
+>Algorithm analysis
+--Time complexity
+--Space complecity
+>Solving Techniques
+--Two pointers
+--Fast slow pointer
+--Window sliding
+>Expression parsing
+--infix
+--postfix
+--prefix
+>Bit manipulation
+
+>>>>>>>>>>>>>>>>>>>
+
+

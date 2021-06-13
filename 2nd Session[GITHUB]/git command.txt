@@ -1,0 +1,26 @@
+
+
+Using git Bash
+>>>>>>>>>>>>>>>>>>>>>>
+
+>git init
+>git add . | add * | add --all | add <file-name>
+>git commit -m "commit msg"
+>git branch -M main
+>git remote add origin "URL"
+>git push -u origin main | push
+>git add README.md
+
+>git status
+>git restore filename
+>git clone "URL"
+>git checkout -b new_branch
+>git remote remove origin
+>git pull
+>gitk
+
+>origin: Location
+>master: Branch
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
