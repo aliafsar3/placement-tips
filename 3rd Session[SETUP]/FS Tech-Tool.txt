@@ -1,0 +1,58 @@
+
+
+Front-end Tech
+>>>>>>>>>>>>>>>>
+
+>HTML
+>CSS3
+>JavaScript
+>Bootstrap
+>React.js
+>Redux lib
+>Material-UI
+
+>>>>>>>>>>>>>>>>>>
+
+
+Backend Tech
+>>>>>>>>>>>>>>>
+
+>Node.js
+>Express.js
+>mongoose
+>sequelize
+>JSON
+>SQL
+
+>>>>>>>>>>>>>>>>
+
+Deployment
+>>>>>>>>>>>>>>>>
+
+>Github
+>Netlify
+>Heroku
+
+>>>>>>>>>>>>>>>>>
+
+
+Tools & software
+>>>>>>>>>>>>>>>>
+
+>VS Code
+>CodeSandbox
+>git
+>npm
+>webpack
+>Babel
+>Postman
+>MongoDB
+>MySQL
+>Firebase
+
+>>>>>>>>>>>>>>>>>>
+
+
+
+
+

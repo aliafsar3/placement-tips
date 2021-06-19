@@ -1,0 +1,29 @@
+
+Shortcut Keys in vs code:
+_______________________________
+! + enter = to create basic html
+div.classname + enter = to create div with classname
+div#id + enter = to create div with id
+div*n = to create div n number of times
+
+note: u can merge upper three commands.
+
+alt + arrowkey = to up and down line of code
+ctrl + L = to select number of lines
+ctrl+ ~ = to open terminal in vs code.
+ctrl+/ = to comment the lines
+
+
+VS CODE Required Extension List:
+_________________________________
+1. Bracket pair colorizer : by coenraads
+2. Flunet icons: by Miguel
+3. HTML css support: ecmel
+4. Live server: Ritwick bey
+5. Prettier: Code fromatter: by prettier
+
+
+Hoisting on github or netlify:
+______________________________
+
+please make your entry file as index.htm 
